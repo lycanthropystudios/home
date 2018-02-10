@@ -1,11 +1,11 @@
 {
 	"site": {
 		"lang": "en",
-		"title": "Design studio template",
+		"title": "Lycanthropy Studios",
 		"titleDelim": " | ",
-		"description": "Free charity website template",
-		"keywords": "html template, theme, freebie, opensource",
-		"url": "http://website-templates.github.io/design-studio_one-page-template"
+		"description": "Estudio 3D especializado en desarrollo de render, diseño de videojuegos, animación 3D y edición de video.",
+		"keywords": "3d medellin, estudio, diseños en 3d, desarrollo videojuegos",
+		"url": "http://lycanthropystudios.com/build/home.html"
 	},
 	"modules": {
 		"googleFonts": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
